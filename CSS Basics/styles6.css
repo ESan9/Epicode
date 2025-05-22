@@ -1,0 +1,68 @@
+body {
+    margin: 0px;
+}
+
+.main-section {
+    padding: 20px;
+}
+
+.image-container {
+    background-image: url("https://www.biriola.com/wp-content/uploads/2021/03/cala-luna.jpeg") ;
+    height: 500px;
+}
+
+h1 {
+    font-family: "Prata";
+    font-size: 64px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-family: "Prata";
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+body {
+    font-family: "Montserrat";
+}
+
+a {
+    font-weight: 600;
+    font-style: italic; 
+}
+
+h6 {
+    padding: 22px;
+    margin-top: 56px;
+    margin-bottom: 0px;
+    color: white;
+    border-radius: 5px;
+    background: linear-gradient(180deg, #027ec4, #9ecbea)
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}
+
+.zz {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 22px;
+    border-bottom: 1px;
+    border-color: #dfdfdf;
+    text-decoration: none;
+    color: #027ec4;
+}
+
+#za {
+    background-color: black;
+    color: white;
+    text-align: center;
+    display: block;
+    padding: 16px;
+}
